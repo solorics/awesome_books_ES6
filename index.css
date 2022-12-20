@@ -109,6 +109,7 @@ input {
 
 .warning {
   background: rgb(227, 172, 172);
+  font-size: small;
 }
 
 #date {
