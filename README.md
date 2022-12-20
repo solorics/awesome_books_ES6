@@ -57,7 +57,7 @@ Clone this repository to your desired folder:
 
 👤 Solorics
 
- GitHub: [@github/hiwina](https://github.com/solorics)
+ GitHub: [@github/Solorics](https://github.com/solorics)
 > 
 
 
